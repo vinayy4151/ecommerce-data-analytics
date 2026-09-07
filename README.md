@@ -160,6 +160,9 @@ Customer segments include:
 
 \## Power BI Dashboard
 
+![E-Commerce Sales & Customer Analytics Dashboard](dashboard/dashboard_preview.png)
+
+
 
 
 The interactive dashboard contains:
